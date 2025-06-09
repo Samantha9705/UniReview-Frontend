@@ -1,7 +1,8 @@
 # UniReview - Frontend
 
-UniReview es una plataforma web diseñada para gestionar y evaluar el desempeño académico de docentes dentro de una institución educativa.  
-UniReview is a web platform designed to manage and evaluate academic performance of teachers within an educational institution.
+UniReview es una plataforma web que busca convertirse en un punto de encuentro donde los jóvenes mexicanos puedan consultar y compartir experiencias reales sobre carreras universitarias. A través de reseñas, opiniones y debates abiertos entre estudiantes, egresados y postulantes, UniReview ofrece una visión más clara sobre lo que implica cada carrera profesional: sus retos, oportunidades y posibles salidas laborales.
+
+UniReview is a web platform designed to become a meeting point where young people in Mexico can explore and share real experiences about university degrees. Through reviews, feedback, and open discussions between students, graduates, and applicants, UniReview provides a clearer picture of what each degree involves — including its challenges, opportunities, and career outlook.
 
 Este repositorio contiene la **versión limpia del frontend**, desarrollada como parte de un proyecto en equipo.  
 This repository contains the **clean version of the frontend**, developed as part of a team project.
